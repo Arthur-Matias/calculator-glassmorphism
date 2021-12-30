@@ -75,7 +75,7 @@ $ cd calculator-glassmorphism
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/Arthur-Matias" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/Arthur-Matias" target="_blank">Arthur Matias</a>
 
 &#xa0;
 
