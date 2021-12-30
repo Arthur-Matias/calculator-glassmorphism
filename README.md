@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-A HTML Glassmorphism style calculator. Check the [live version]()
+A HTML Glassmorphism style calculator. Check the [live version](https://arthur-matias.github.io/calculator-glassmorphism/)
 
 ## :rocket: Technologies ##
 
