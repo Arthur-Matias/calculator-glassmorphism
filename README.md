@@ -67,7 +67,7 @@ $ git clone https://github.com/Arthur-Matias/calculator-glassmorphism
 # Access
 $ cd calculator-glassmorphism
 
-# The just open index.html on your favorite browser
+# Then just open index.html on your favorite browser
 ```
 
 ## :memo: License ##
